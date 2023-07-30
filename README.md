@@ -9,7 +9,7 @@ Nowadays this technique is quite known but still it's a nice backup to maintain 
 <b>run server : python PingMadeMeDoIt.py</b>
 server commands : shellstart (start shell), shellexit (exit shell), job: cmd (execute cmd provided and return info), if no command is received default behaviour is to send back reply with the text inputted.
 
-<b>run client : python PingMadeMeDoIt.exe advanced x.x.x.x hello</b>
+<b>run client : PingMadeMeDoIt.exe advanced x.x.x.x hello</b>
 
 <br>
 <b>Server Side..</b>
