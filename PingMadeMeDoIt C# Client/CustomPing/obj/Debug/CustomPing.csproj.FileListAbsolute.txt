@@ -1,0 +1,6 @@
+C:\Users\rickd\source\repos\CustomPing\CustomPing\bin\Debug\CustomPing.exe
+C:\Users\rickd\source\repos\CustomPing\CustomPing\bin\Debug\CustomPing.pdb
+C:\Users\rickd\source\repos\CustomPing\CustomPing\obj\Debug\CustomPing.csprojAssemblyReference.cache
+C:\Users\rickd\source\repos\CustomPing\CustomPing\obj\Debug\CustomPing.csproj.CoreCompileInputs.cache
+C:\Users\rickd\source\repos\CustomPing\CustomPing\obj\Debug\CustomPing.exe
+C:\Users\rickd\source\repos\CustomPing\CustomPing\obj\Debug\CustomPing.pdb

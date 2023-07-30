@@ -1,0 +1,7 @@
+C:\Users\rickd\source\repos\CustomPing\CustomPing\bin\Release\CustomPing.exe
+C:\Users\rickd\source\repos\CustomPing\CustomPing\bin\Release\CustomPing.pdb
+C:\Users\rickd\source\repos\CustomPing\CustomPing\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\rickd\source\repos\CustomPing\CustomPing\obj\Release\CustomPing.csproj.CoreCompileInputs.cache
+C:\Users\rickd\source\repos\CustomPing\CustomPing\obj\Release\CustomPing.csproj.CopyComplete
+C:\Users\rickd\source\repos\CustomPing\CustomPing\obj\Release\CustomPing.exe
+C:\Users\rickd\source\repos\CustomPing\CustomPing\obj\Release\CustomPing.pdb
