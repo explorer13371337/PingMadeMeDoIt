@@ -13,7 +13,7 @@ run client : python PingMadeMeDoIt.exe advanced x.x.x.x hello
 
 example :
 
-Server Side..
+<b>Server Side..</b>
 
 [root@yourmom ping]# python3.11 PingMadeMeDoIt.py
 Listening for ICMP Echo requests...
