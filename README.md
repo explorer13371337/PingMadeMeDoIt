@@ -26,9 +26,9 @@ result: shellresult:  Volume in drive C has no label.<br>
 <br>
 07/30/2023  08:10 PM    <DIR>          .<br>
 07/30/2023  08:10 PM    <DIR>          ..<br>
-12/08/2020  07:05 PM         2,609,152 BouncyCastle.Crypto.dll<br>
-07/30/2023  08:10 PM             9,728 CustomPing.exe<br>
-07/30/2023  08:10 PM            24,064 CustomPing.pdb<br>
+12/08/2020  07:05 PM         2,609,152 BouncyCastle.Mom.dll<br>
+07/30/2023  08:10 PM             9,728 Deep.exe<br>
+07/30/2023  08:10 PM            24,064 Penetration.pdb<br>
                3 File(s)      2,642,944 bytes<br>
                2 Dir(s)  16,437,215,232 bytes free<br>
 <br>
